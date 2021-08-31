@@ -1,0 +1,158 @@
+body
+{ 
+	background-color:white;
+	background-image:url('bcg.jpg');
+	        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+
+font-family: 'Nunito', sans-serif;	
+	font-size: 14px;
+	color:#212121;
+}
+
+#main
+{
+	width: 970px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0px 20px 74px 3px rgba(0, 0, 0, 0.87);
+}
+#header
+{
+	text-align: center;
+	margin-top: 10px;
+	color: #ebebeb;
+	padding:15px;
+	background-color: #6B6A70;
+	margin-bottom:10px;
+	box-shadow: 0px 10px 10px -4px rgba(124, 124, 124, 0.67);
+
+}
+
+#photo
+{
+	
+	text-align: center;
+}
+#personal-inf
+{
+	float: left;
+    background-image: linear-gradient(#bd794c, #e6d1c6);
+	width: 270px;
+	height: 1000px;
+	box-shadow: 0px 20px 23px -6px #1E1E1E;
+
+
+}
+#information
+{	
+	
+	float:left;
+	background-color:  #ebebeb;
+	width: 700px;
+	height: 1000px;
+
+	box-shadow: 10px 15px 23px -3px #1E1E1E;
+
+}
+#clause
+{
+	float:left;
+	text-align: center;
+	padding:10px;
+	font-size:10px;
+
+}
+
+.brick
+{
+	padding-left: 25px;
+	
+}
+a:link
+{
+	color: black;
+}
+a:hover
+{
+	color: #6a6868;
+
+}
+#checked
+{
+	list-style: url('icons8-checkmark-16.png');
+	
+}
+
+.date
+{
+	float:left;
+	margin-left: 20px;
+	width: 130px;
+	margin-top: 10px;
+	font-size: 13px;
+
+	
+}
+.jobinfo
+{	
+	float:left;
+	width: 500px;
+	margin-left: 20px;
+	line-height: 0.05cm;
+
+}
+li{
+		line-height: 0.6cm;
+
+}
+.title
+{
+		color: #f1edea;
+
+		border-bottom: 2px solid #6B6A70;
+		border-top: 2px solid #6B6A70;
+		border-right: 2px solid #6B6A70;
+
+		margin-top: 15px;
+		margin-bottom:15px;
+		margin-left: 25px;
+		margin-right: 25px;
+		padding: 8px;
+
+}
+h4
+{
+	font-size:15px;
+}
+h3
+{
+		font-size:15px;
+
+}
+.titleinfo
+{
+
+		border-bottom: 2px solid #b78766;
+		margin-top: 10px;
+		margin-bottom:15px;
+		margin-left: 25px;
+		margin-right: 25px;
+		padding: 8px;
+}
+#skilltitle
+{
+		float:left;
+		width:200px;
+		margin-left: 40px;
+		height: 200px
+}
+#skillinfo
+{
+		margin-left: 10px;
+		float:left;
+		width:330px;
+		word-spacing: 2px;
+
+}
